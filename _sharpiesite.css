@@ -1,0 +1,39 @@
+@charset "UTF-8";
+/* CSS Document */
+body {background-color: #FFF;
+}
+
+#outer {
+	width: 200px;
+	height: 200px;
+	float: right;
+	margin-top: 40px;
+	margin-right: 40px;
+	background: #E86262; 
+	}
+
+#inner {
+	width: 100px;
+	height: 100px;
+	float: left;
+	margin-top: 80px;
+	margin-left: 80px;
+	background: #56A1EB; 
+	}
+
+#container {
+	width: 500px;
+	height: 500px;
+	margin-top: 10px;
+	margin-left: 10px;
+	background-image: url(https://i.pinimg.com/236x/a4/9d/34/a49d34559cf52f328d4e9073e9ea4747.jpg);
+	}
+
+#shit {
+	width: 80px;
+	height: 80px;
+	margin-top: 300px;
+	margin-left: 30px;
+	float: left;
+	background: #CF2FD5;
+	}
