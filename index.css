@@ -40,6 +40,14 @@ body {background-color: #FFFFFF;
 	background: #FFFFFF; 
 	}
 
+#infoboxartivive {
+	width: 800px;
+	height: 400px;
+	float: left;
+	margin-left: 100px;
+	background: #FFFFFF; 
+	}
+
 #nextbox {
 	width: 800px;
 	height: 70px;
