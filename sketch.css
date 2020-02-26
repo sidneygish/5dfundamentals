@@ -16,7 +16,7 @@ body {background-color: #FFFFFF;
 	height: 60px;
 	float: left;
 	margin-left: 100px;
-	margin-top: 100px;
+	margin-top: 50px;
 	background: #FFFFFF; 
 	font-size: 40px;
 	}
@@ -34,7 +34,7 @@ body {background-color: #FFFFFF;
 
 #sketchbox1 {
 	width: 800px;
-	height: 400px;
+	height: 700px;
 	float: left;
 	margin-left: 100px;
 	background-image: url("fig1.JPG");
@@ -44,7 +44,7 @@ body {background-color: #FFFFFF;
 
 #sketchbox2 {
 	width: 800px;
-	height: 400px;
+	height: 700px;
 	float: left;
 	margin-left: 100px;
 	background-image: url("fig2.jpg");
@@ -54,7 +54,7 @@ body {background-color: #FFFFFF;
 
 #nextbox {
 	width: 800px;
-	height: 40px;
+	height: 70px;
 	float: left;
 	margin-left: 100px;
 	background: #FFFFFF;
