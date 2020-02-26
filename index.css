@@ -32,6 +32,17 @@ body {background-color: #FFFFFF;
 	font-size: 20px;
 	}
 
+#subtitleboxartivive {
+	width: 800px;
+	height: 100px;
+	float: left;
+	margin-left: 100px;
+	background: #FFFFFF; 
+	font-style: italic;
+	font-weight: bold;
+	font-size: 20px;
+	}
+
 #infobox {
 	width: 800px;
 	height: 250px;
